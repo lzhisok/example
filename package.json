@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "this is demo example",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzhisok/example.git"
+  },
+  "keywords": [
+    "demo",
+    "js"
+  ],
+  "author": "lzhisok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzhisok/example/issues"
+  },
+  "homepage": "https://github.com/lzhisok/example#readme"
+}
