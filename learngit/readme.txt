@@ -1,1 +1,1 @@
-Git is very
+Git is very cool
